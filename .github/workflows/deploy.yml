@@ -1,0 +1,10 @@
+
+---
+
+## ✅ Next Steps
+1. Create a **new GitHub repo** (e.g. `nahin-portfolio`).  
+2. Copy these files into it.  
+3. Run:
+   ```bash
+   npm install
+   npm run dev
